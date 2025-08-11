@@ -1,3 +1,3 @@
 # fictional-waffle
 
-Hej! Detta är mitt repo.
+Hej och välkommen! Detta är mitt repo.
